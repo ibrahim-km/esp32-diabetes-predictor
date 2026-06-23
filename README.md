@@ -1,7 +1,8 @@
 # ESP32 Diabetes Predictor
 
-Cloud-connected diabetes prediction system using Machine Learning, Firebase, ESP32-S3 and Netlify.
+![Web Interface](images/web-interface.png)
 
+Cloud-connected diabetes prediction system using Machine Learning, Firebase, ESP32-S3 and Netlify.
 ## Features
 
 - Diabetes risk prediction using Machine Learning
