@@ -33,7 +33,6 @@ model_data = {
     "stds": scaler.scale_.tolist()
 }
 
-# ⚠️ Make sure this URL matches your Firebase exactly
 firebase_url = "https://diabetes-predictor-b8d76-default-rtdb.asia-southeast1.firebasedatabase.app/app/model.json"
 
 response = requests.put(firebase_url, json=model_data)
