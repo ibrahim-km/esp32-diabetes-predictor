@@ -19,3 +19,25 @@ Cloud-connected diabetes prediction system using Machine Learning, Firebase, ESP
 - Firebase Realtime Database
 - HTML/CSS/JavaScript
 - Netlify
+
+## System Architecture
+
+![Architecture Diagram](images/architecture-diagram.png)
+
+## Project Screenshots
+
+### Web Interface
+
+![Web Interface](images/web-interface.png)
+
+### ESP32 Hardware
+
+![ESP32 Hardware](images/esp32.jpeg)
+
+### Firebase Integration
+
+![Firebase](images/firebase.png)
+
+### Model Training
+
+![Training](images/colab-training.png)
